@@ -63,6 +63,7 @@ For different input combinations generate the timing diagram.
 Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. 
 
 Developed by: JAGAN KUMAR V
+
 RegisterNumber: 25012671
 
 **Full Adder**
