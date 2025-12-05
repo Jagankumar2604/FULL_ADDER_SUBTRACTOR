@@ -48,6 +48,8 @@ FULL SUBTRACTOR
 
 
 **Procedure**
+
+
 Type the program in Quartus software.
 
 Compile and run the program.
